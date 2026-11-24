@@ -23,7 +23,7 @@ Når du har pakket dem ud, skal din mappestruktur gerne se ud på følgende måd
 C:\Kursusfiler\BI-kurser\
 ├── AWC\
 │   └── Sales Data\
-├── Fangstraport\
+├── Fangstrapport\
 ├── Finansrapport\
 └── Kursusrapport\
 ```
