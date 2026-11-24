@@ -55,7 +55,7 @@ er det en god idé at hente en ny ZIP-fil, før du går i gang.
 Filerne er beskyttet af ophavsret, og **alle rettigheder er forbeholdt**.
 Du må bruge dem til din egen læring sammen med bogen. Du må ikke bruge dem i undervisning
 eller kurser eller dele dem med andre, medmindre dette er skriftligt aftalt med Innovate.
-Se de fulde vilkår i [LICENSE](License).
+Se de fulde vilkår i [LICENSE](License.md).
 
 ---
 
