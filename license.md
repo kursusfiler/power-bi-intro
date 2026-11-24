@@ -2,7 +2,7 @@ Copyright © 2026 innovate. Alle rettigheder forbeholdes.
 
 Filerne i dette repository hører til bogen "Power BI Introduktion" og må 
 kun bruges af personer, der har købt bogen eller fået den i forbindelse 
-med et kursus hos en af vores samarbejdspartnere , til deres egen læring.
+med et kursus hos en af vores samarbejdspartnere, til deres egen læring.
 
 Det er ikke tilladt uden skriftlig tilladelse at:
 - bruge filerne, helt eller delvist, i undervisning, kurser, workshops
