@@ -45,7 +45,7 @@ i Power BI: **Filer > Indstillinger > Indstillinger for datakilde > Skift kilde*
 
 ## Opdateringer
 
-Filerne bliver rettet og opdateret løbende. Hvis du hentede dem for et stykke tid siden,
+Filerne bliver rettet og opdateret løbende. Hvis er længe siden du hentede dem,
 er det en god idé at hente en ny ZIP-fil, før du går i gang.
 
 ---
