@@ -19,31 +19,18 @@ Du behøver ikke at kende GitHub for at hente filerne:
 
 
 
-
----
-
-## Version
-
-- **Excel** til Microsoft 365 (Windows)
-- **Power BI Desktop**, nyeste version (gratis fra Microsoft Store)
-
-Ældre versioner kan godt virke, men skærmbilleder og menuer i bogen kan se lidt anderledes ud.
-
 ---
 
 ## Hvis filerne ikke vil køre
 
-**"Beskyttet visning" eller blokeret indhold**
+**Beskyttet visning** eller **blokeret indhold**
 Windows blokerer nogle gange filer, der er hentet fra internettet. Højreklik på zip-filen,
 **før** du pakker den ud, og vælg **Egenskaber**. Sæt flueben i **Fjern blokering** og klik **OK**.
 
 **Power Query kan ikke finde datakilden**
-Nogle filer henter data fra mappen `Data`. Hvis du har lagt filerne et andet sted end
-`C:\Kursus\`, skal du rette stien:
-- I Excel: **Data → Hent data → Indstillinger for datakilde → Skift kilde**
-- I Power BI: **Transformér data → Indstillinger for datakilde → Skift kilde**
+Hvis du har lagt filerne et andet sted end `C:\Kursusfiler\PBI0`, skal du rette stien:
+i Power BI: **Filer > Indstillinger > Indstillinger for datakilde > Skift kilde**
 
-[Hvis du bruger en parameter til stien, kan du i stedet skrive: "Ret parameteren `Mappesti`."]
 
 ---
 
@@ -66,6 +53,6 @@ Se de fulde vilkår i [LICENSE](LICENSE).
 ## Kontakt
 
 Har du spørgsmål til filerne eller bogen, eller har du fundet en fejl?
-Skriv til [e-mail] · [www.dinhjemmeside.dk]
+Skriv til innovate@innovate.dk · innovate.dk
 
-**innovate** · Jørgen [efternavn]
+**innovate** · Jørgen Koch
