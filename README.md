@@ -45,14 +45,15 @@ er det en god idé at hente en ny ZIP-fil, før du går i gang.
 
 Filerne er beskyttet af ophavsret, og **alle rettigheder er forbeholdt**.
 Du må bruge dem til din egen læring sammen med bogen. Du må ikke bruge dem i undervisning
-eller kurser eller dele dem med andre.
-Se de fulde vilkår i [LICENSE](LICENSE).
+eller kurser eller dele dem med andre, medmindre dette er skriftligt aftalt med Innovate.
+Se de fulde vilkår i (LICENSE).
 
 ---
 
 ## Kontakt
 
 Har du spørgsmål til filerne eller bogen, eller har du fundet en fejl?
+
 Skriv til innovate@innovate.dk · innovate.dk
 
-**innovate** · Jørgen Koch
+God læring
