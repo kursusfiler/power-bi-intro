@@ -1,2 +1,2 @@
 # power-bi-intro
-Kursusfiler til Power BI Introduktion
+Kursusfiler til bogen Power BI Introduktion
