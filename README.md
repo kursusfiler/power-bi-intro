@@ -1,6 +1,6 @@
 # Kursusfiler til Power BI Introduktion
 
-Her finder du eksempel- og opgavefilerne til bogen **Power BI Introduktion** fra innovate.
+Her finder du eksempel- og opgavefilerne til bogen **Power BI Introduktion** fra Innovate.
 
 
 ---
